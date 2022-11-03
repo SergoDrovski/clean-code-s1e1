@@ -5,9 +5,7 @@
 //Solution: Add interactivity so the user can manage daily tasks.
 //Break things down into smaller steps and take each step at a time.
 
-
 // Event handling, user interaction is what starts the code execution.
-
 const taskInput = document.querySelector("#new-task");//Add a new task.
 const addButton = document.querySelector(".add");//first button
 const incompleteTaskHolder = document.querySelector("#incomplete-tasks");//ul of #incomplete-tasks
